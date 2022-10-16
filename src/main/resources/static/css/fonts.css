@@ -1,0 +1,205 @@
+@font-face {
+     font-family: 'Noto Sans KR';
+     font-style: normal;
+     font-weight: 200;
+     src: url(fonts/NotoSansKR-Thin-Hestia.woff) format('woff'),
+           url(fonts/NotoSansKR-Thin-Hestia.eot),
+            url(fonts/NotoSansKR-Thin-Hestiad41d.eot?#iefix) format('embedded-opentype'),
+          url(fonts/NotoSansKR-Thin-Hestia.otf) format('opentype');
+  }
+@font-face {
+   font-family: 'Noto Sans KR';
+   font-style: normal;
+   font-weight: 300;
+   src: url(fonts/NotoSansKR-Light-Hestia.woff) format('woff'),
+         url(fonts/NotoSansKR-Light-Hestia.eot),
+		url(fonts/NotoSansKR-Light-Hestiad41d.eot?#iefix) format('embedded-opentype'),
+        url(fonts/NotoSansKR-Light-Hestia.otf) format('opentype');
+}
+@font-face {
+   font-family: 'Noto Sans KR';
+   font-style: normal;
+   font-weight: 400;
+   src: url(fonts/NotoSansKR-Regular-Hestia.woff) format('woff'),
+         url(fonts/NotoSansKR-Regular-Hestia.eot),
+		url(fonts/NotoSansKR-Regular-Hestiad41d.eot?#iefix) format('embedded-opentype'),
+        url(fonts/NotoSansKR-Regular-Hestia.otf) format('opentype');
+ }
+@font-face {
+   font-family: 'Noto Sans KR';
+   font-style: normal;
+   font-weight: 500;
+   src:url(fonts/NotoSansKR-Medium-Hestia.woff) format('woff'),
+         url(fonts/NotoSansKR-Medium-Hestia.eot),
+		url(fonts/NotoSansKR-Medium-Hestiad41d.eot?#iefix) format('embedded-opentype'),
+        url(fonts/NotoSansKR-Medium-Hestia.otf) format('opentype');
+ }
+@font-face {
+font-family: 'Noto Sans KR';
+font-style: normal;
+font-weight: 600;
+src:url(fonts/NotoSansKR-Bold-Hestia.woff) format('woff'),
+          url(fonts/NotoSansKR-Bold-Hestia.eot),
+          url(fonts/NotoSansKR-Bold-Hestiad41d.eot?#iefix) format('embedded-opentype'),
+     url(fonts/NotoSansKR-Bold-Hestia.otf) format('opentype');
+}
+@font-face {
+font-family: 'Noto Sans KR';
+font-style: normal;
+font-weight: 700;
+src:url(fonts/NotoSansKR-Black-Hestia.woff) format('woff'),
+          url(fonts/NotoSansKR-Black-Hestia.eot),
+          url(fonts/NotoSansKR-Black-Hestiad41d.eot?#iefix) format('embedded-opentype'),
+     url(fonts/NotoSansKR-Black-Hestia.otf) format('opentype');
+}
+ /* nanum-gothic-regular - korean_latin */
+@font-face {
+    font-family: 'Nanum Gothic';
+    font-style: normal;
+    font-weight: 400;
+    src: url('fonts/nanum-gothic-v17-korean_latin-regular.eot'); /* IE9 Compat Modes */
+    src: local('NanumGothic'),
+         url('fonts/nanum-gothic-v17-korean_latin-regulard41d.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('fonts/nanum-gothic-v17-korean_latin-regular.html') format('woff2'), /* Super Modern Browsers */
+         url('fonts/nanum-gothic-v17-korean_latin-regular.woff') format('woff'), /* Modern Browsers */
+         url('fonts/nanum-gothic-v17-korean_latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('fonts/nanum-gothic-v17-korean_latin-regular.svg#NanumGothic') format('svg'); /* Legacy iOS */
+  }
+  /* nanum-gothic-800 - korean_latin */
+  @font-face {
+    font-family: 'Nanum Gothic';
+    font-style: normal;
+    font-weight: 800;
+    src: url('fonts/nanum-gothic-v17-korean_latin-800.eot'); /* IE9 Compat Modes */
+    src: local('NanumGothic ExtraBold'), local('NanumGothic-ExtraBold'),
+         url('fonts/nanum-gothic-v17-korean_latin-800d41d.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('fonts/nanum-gothic-v17-korean_latin-800.html') format('woff2'), /* Super Modern Browsers */
+         url('fonts/nanum-gothic-v17-korean_latin-800.woff') format('woff'), /* Modern Browsers */
+         url('fonts/nanum-gothic-v17-korean_latin-800.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('fonts/nanum-gothic-v17-korean_latin-800.svg#NanumGothic') format('svg'); /* Legacy iOS */
+  }
+  /* nanum-gothic-700 - korean_latin */
+  @font-face {
+    font-family: 'Nanum Gothic';
+    font-style: normal;
+    font-weight: 700;
+    src: url('fonts/nanum-gothic-v17-korean_latin-700.eot'); /* IE9 Compat Modes */
+    src: local('NanumGothic Bold'), local('NanumGothic-Bold'),
+         url('fonts/nanum-gothic-v17-korean_latin-700d41d.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('fonts/nanum-gothic-v17-korean_latin-700.html') format('woff2'), /* Super Modern Browsers */
+         url('fonts/nanum-gothic-v17-korean_latin-700.woff') format('woff'), /* Modern Browsers */
+         url('fonts/nanum-gothic-v17-korean_latin-700.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('fonts/nanum-gothic-v17-korean_latin-700.svg#NanumGothic') format('svg'); /* Legacy iOS */
+  }
+  /* nanum-brush-scripnjsrkt-regular - korean_latin */
+@font-face {
+    font-family: 'Nanum Brush Script';
+    font-style: normal;
+    font-weight: 400;
+    src: url('fonts/nanum-brush-script-v17-korean_latin-regular.eot'); /* IE9 Compat Modes */
+    src: local('Nanum Brush Script'), local('NanumBrush'),
+         url('fonts/nanum-brush-script-v17-korean_latin-regulard41d.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('fonts/nanum-brush-script-v17-korean_latin-regular.html') format('woff2'), /* Super Modern Browsers */
+         url('fonts/nanum-brush-script-v17-korean_latin-regular.woff') format('woff'), /* Modern Browsers */
+         url('fonts/nanum-brush-script-v17-korean_latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('fonts/nanum-brush-script-v17-korean_latin-regular.svg#NanumBrushScript') format('svg'); /* Legacy iOS */
+  }
+  /* nanum-pen-script-regular - korean_latin */
+@font-face {
+    font-family: 'Nanum Pen Script';
+    font-style: normal;
+    font-weight: 400;
+    src: url('fonts/nanum-pen-script-v15-korean_latin-regular.eot'); /* IE9 Compat Modes */
+    src: local('Nanum Pen'), local('NanumPen'),
+         url('fonts/nanum-pen-script-v15-korean_latin-regulard41d.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('fonts/nanum-pen-script-v15-korean_latin-regular.html') format('woff2'), /* Super Modern Browsers */
+         url('fonts/nanum-pen-script-v15-korean_latin-regular.woff') format('woff'), /* Modern Browsers */
+         url('fonts/nanum-pen-script-v15-korean_latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('fonts/nanum-pen-script-v15-korean_latin-regular.svg#NanumPenScript') format('svg'); /* Legacy iOS */
+  }
+@font-face {
+font-family: 'NanumBarunGothic';
+font-weight: 400;
+src: url(fonts/NanumBarunGothicSubset.eot);
+src: url(fonts/NanumBarunGothicSubsetd41d.eot?#iefix) format('embedded-opentype'),
+     url(fonts/NanumBarunGothicSubset.woff) format('woff'),
+     url(fonts/NanumBarunGothicSubset.ttf) format('truetype');
+}
+@font-face {
+font-family: 'NanumBarunGothic';
+font-weight: 700;
+src: url(fonts/NanumBarunGothicBoldSubset.eot);
+src: url(fonts/NanumBarunGothicBoldSubsetd41d.eot?#iefix) format('embedded-opentype'),
+     url(fonts/NanumBarunGothicBoldSubset.woff) format('woff'),
+     url(fonts/NanumBarunGothicBoldSubset.ttf) format('truetype');
+}
+@font-face {
+font-family: 'NanumBarunGothic';
+font-weight: 300;
+src: url(http://www.danafood.com/css/fonts/NanumBarunGothicLightSubset.eot);
+src: url(http://www.danafood.com/css/fonts/NanumBarunGothicLightSubset.eot?#iefix) format('embedded-opentype'),
+     url(http://www.danafood.com/css/fonts/NanumBarunGothicLightSubset.woff) format('woff'),
+     url(http://www.danafood.com/css/fonts/NanumBarunGothicLightSubset.ttf) format('truetype');
+}
+@font-face {
+font-family: 'NanumBarunGothic';
+font-weight: 200;
+src: url(http://www.danafood.com/css/fonts/NanumBarunGothicUltraLightSubset.eot);
+src: url(http://www.danafood.com/css/fonts/NanumBarunGothicUltraLightSubset.eot?#iefix) format('embedded-opentype'),
+     url(http://www.danafood.com/css/fonts/NanumBarunGothicUltraLightSubset.woff) format('woff'),
+     url(http://www.danafood.com/css/fonts/NanumBarunGothicUltraLightSubset.ttf) format('truetype');
+}
+@font-face {
+font-family: 'NanumSquare';
+font-weight: 300;
+src: url(http://www.danafood.com/css/fonts/NanumSquareL.eot);
+src: url(http://www.danafood.com/css/fonts/NanumSquareL.eot?#iefix) format('embedded-opentype'),
+url(http://www.danafood.com/css/fonts/NanumSquareL.woff) format('woff'),
+url(http://www.danafood.com/css/fonts/NanumSquareL.ttf) format('truetype');
+}
+@font-face {
+font-family: 'NanumSquare';
+font-weight: 400;
+src: url(http://www.danafood.com/css/fonts/NanumSquareR.eot);
+src: url(http://www.danafood.com/css/fonts/NanumSquareR.eot?#iefix) format('embedded-opentype'),
+url(http://www.danafood.com/css/fonts/NanumSquareR.woff) format('woff'),
+url(http://www.danafood.com/css/fonts/NanumSquareR.ttf) format('truetype');
+}
+@font-face {
+font-family: 'NanumSquare';
+font-weight: 600;
+src: url(http://www.danafood.com/css/fonts/NanumSquareB.eot);
+src: url(http://www.danafood.com/css/fonts/NanumSquareB.eot?#iefix) format('embedded-opentype'),
+url(http://www.danafood.com/css/fonts/NanumSquareB.woff) format('woff'),
+url(http://www.danafood.com/css/fonts/NanumSquareB.ttf) format('truetype');
+}
+@font-face {
+font-family: 'NanumSquare';
+font-weight: 700;
+src: url(http://www.danafood.com/css/fonts/NanumSquareEB.eot);
+src: url(http://www.danafood.com/css/fonts/NanumSquareEB.eot?#iefix) format('embedded-opentype'),
+url(http://www.danafood.com/css/fonts/NanumSquareEB.woff) format('woff'),
+url(http://www.danafood.com/css/fonts/NanumSquareEB.ttf) format('truetype');
+}
+@font-face {
+font-family: "helvetica-inserat";
+src: url('http://www.danafood.com/css/fonts/HelveticaInseratLTStd-Roman.eot');
+src: url('http://www.danafood.com/css/fonts/HelveticaInseratLTStd-Roman.eot?#iefix') format('embedded-opentype'),
+url('http://www.danafood.com/css/fonts/HelveticaInseratLTStd-Roman.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+}
+@font-face {
+     font-family: 'GyeonggiBatang';
+     font-style: normal;
+     font-weight: 400;
+     font-display: fallback; 
+     src: url('http://www.danafood.com/css/fonts/Batang_Regular.woff') format('woff'); 
+ }
+ @font-face {
+     font-family: 'GyeonggiBatang';
+     font-style: normal;
+     font-weight: 600;
+     font-display: fallback; 
+     src: url('http://www.danafood.com/css/fonts/Batang_Bold.woff') format('woff'); 
+ }
